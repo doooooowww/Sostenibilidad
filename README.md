@@ -1,5 +1,3 @@
-# Sostenibilidad
-
 # Resultado de Aprendizaje: Caracterización de los Retos Ambientales y Sociales
 
 ## Introducción
