@@ -1,1 +1,2 @@
 He hecho este documento dentro de la carpeta "carpeta" y le he asignado la extensión txt.
+Estoy haciendo un cambio en la linea 2
